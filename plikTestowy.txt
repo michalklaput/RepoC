@@ -1,3 +1,4 @@
 To jest testowy plik zmiana1
 To Kolejny dodatek
 commit nr 3
+commit po merge repo
